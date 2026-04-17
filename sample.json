@@ -1,0 +1,13 @@
+{
+  "name": "Downtown Dubai Studio",
+  "description": "A beautiful studio apartment in Downtown Dubai.",
+  "image": "ipfs://bafkreibc3dfbfojnsrhz6m7hab2jzvscj3n5ixcyjqadzu5vsbzilxamb4",
+  "attributes": [
+    { "trait_type": "Location", "value": "Downtown Dubai" },
+    { "trait_type": "Area", "value": "500 sqft" },
+    { "trait_type": "Bedrooms", "value": 1 },
+    { "trait_type": "Bathrooms", "value": 1 },
+    { "trait_type": "Year Built", "value": 2018 },
+    { "trait_type": "Price (ETH)", "value": "10" }
+  ]
+}

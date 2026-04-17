@@ -1,0 +1,5 @@
+property_id,name,location,bedrooms,bathrooms,size_sqft,price_usd,amenities,year_built
+P001,Downtown Heights,Downtown Dubai,3,2,1450,1200000,Pool;Gym;Security,2018
+P002,Marina Pearl,Dubai Marina,2,2,1100,950000,Pool;View;Concierge,2020
+P003,Silicon Villas,Dubai Silicon Oasis,4,3,1900,1150000,Garden;Garage;Security,2017
+P004,Green Acres,Dubailand,3,2,1350,800000,Garden;Playground;Gym,2015

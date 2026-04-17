@@ -1,0 +1,4 @@
+investor_id,name,budget_usd,preferred_locations,preferred_bedrooms,amenities_required
+I001,Alice,1000000,Dubai Marina;Downtown Dubai,2,Pool;View
+I002,Bob,1200000,Dubai Silicon Oasis,3,Garden;Garage
+I003,Charlie,850000,Dubailand,3,Gym;Playground
